@@ -9,7 +9,7 @@ package jogodavelha;
  * @author veronica62924506
  */
 public class Jogador {
-   private int numero;
+    private int numero;
     private String nome;
     private char simbolo;
 
